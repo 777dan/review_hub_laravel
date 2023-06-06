@@ -11,7 +11,7 @@
     <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="https://getbootstrap.com/docs/4.0/examples/jumbotron/jumbotron.css" rel="stylesheet">
-    <link href="../css/app.css" rel="stylesheet">
+    <link href="../../../mylaravel/public/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -37,8 +37,8 @@
         @yield('main_content')
     </main>
 
-    <footer class="container text-center footer">
-        <p>&copy; Company 2017-2023</p>
+    <footer class="container-fluid p-3 text-center bg-secondary">
+        <h5 class="text-white">&copy; Company 2017-2023</h5>
     </footer>
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -13,18 +13,19 @@ Home
 
 <div class="container">
     <!-- Example row of columns -->
+    <h1 class="text-center mb-5">Our facilities</h1>
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>Objective and honest reviews</h2>
+            <p>We offer completely unbiased and honest reviews to help you make an informed decision when choosing a product or service. We guarantee independence and no outside interests will affect our recommendations.</p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>Wide range of categories</h2>
+            <p>The Review Hub covers many categories to suit the different needs and interests of our visitors. Here you will find reviews and comparisons on technology, household appliances, beauty and health, travel and much more. This way you can get all the information you need in one place.</p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>Proven Expertiseing</h2>
+            <p>Our team consists of experienced and competent experts who carefully research and test each product or service before sharing their opinions and recommendations. We provide a high level of quality and reliability of information so that you can be confident in our expert opinion.</p>
         </div>
     </div>
 
